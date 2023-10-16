@@ -1,0 +1,100 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Создать новый компонент",
+      "description": "Написать код для нового компонента и интегрировать его в приложение.",
+      "project": "Frontend",
+      "deadline": "2023-10-31",
+      "status": "inProgress",
+      "priority": "high",
+      "assignee": "username1",
+      "createdAt": "2023-10-15T08:00:00",
+      "updatedAt": "2023-10-15T10:30:00"
+    },
+    {
+      "id": 2,
+      "title": "Оптимизировать бэкенд",
+      "description": "Провести оптимизацию серверной части приложения для улучшения производительности.",
+      "project": "Backend",
+      "deadline": "2023-11-15",
+      "status": "new",
+      "priority": "medium",
+      "assignee": "username2",
+      "createdAt": "2023-10-16T09:15:00",
+      "updatedAt": "2023-10-16T09:20:00"
+    },
+    {
+      "id": 3,
+      "title": "Разработать дизайн интерфейса",
+      "description": "Создать дизайн пользовательского интерфейса для новой функциональности.",
+      "project": "Design",
+      "deadline": "2023-11-05",
+      "status": "new",
+      "priority": "low",
+      "assignee": "username3",
+      "createdAt": "2023-10-17T14:30:00",
+      "updatedAt": "2023-10-17T15:00:00"
+    },
+    {
+      "id": 4,
+      "title": "Тестирование функционала",
+      "description": "Провести тестирование новых функций и исправить обнаруженные ошибки.",
+      "project": "QA",
+      "deadline": "2023-10-28",
+      "status": "inProgress",
+      "priority": "medium",
+      "assignee": "username4",
+      "createdAt": "2023-10-18T10:00:00",
+      "updatedAt": "2023-10-18T11:30:00"
+    },
+    {
+      "id": 5,
+      "title": "Опубликовать обновление",
+      "description": "Подготовить и опубликовать новую версию приложения в магазинах приложений.",
+      "project": "Release",
+      "deadline": "2023-11-10",
+      "status": "new",
+      "priority": "high",
+      "assignee": "username5",
+      "createdAt": "2023-10-19T12:45:00",
+      "updatedAt": "2023-10-19T13:15:00"
+    },
+    {
+      "id": 6,
+      "title": "Создать отчет",
+      "description": "Подготовить отчет о выполненной работе и отправить заказчику.",
+      "project": "Reporting",
+      "deadline": "2023-11-02",
+      "status": "new",
+      "priority": "medium",
+      "assignee": "username6",
+      "createdAt": "2023-10-20T16:30:00",
+      "updatedAt": "2023-10-20T17:30:00"
+    },
+    {
+      "id": 7,
+      "title": "Провести совещание",
+      "description": "Организовать совещание с командой для обсуждения текущего состояния проекта.",
+      "project": "Meetings",
+      "deadline": "2023-10-25",
+      "status": "inProgress",
+      "priority": "low",
+      "assignee": "username7",
+      "createdAt": "2023-10-21T09:00:00",
+      "updatedAt": "2023-10-21T09:30:00"
+    },
+    {
+      "id": 8,
+      "title": "Обновить документацию",
+      "description": "Пересмотреть и обновить документацию проекта.",
+      "project": "Documentation",
+      "deadline": "2023-11-20",
+      "status": "new",
+      "priority": "medium",
+      "assignee": "username8",
+      "createdAt": "2023-10-22T13:15:00",
+      "updatedAt": "2023-10-22T14:00:00"
+    }
+  ]
+}
