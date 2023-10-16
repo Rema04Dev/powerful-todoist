@@ -1,27 +1,32 @@
-# vite-template-redux
+# Проект "Ninja Tasker"
 
-Uses [Vite](https://vitejs.dev/), [Vitest](https://vitest.dev/), and [React Testing Library](https://github.com/testing-library/react-testing-library) to create a modern [React](https://react.dev/) app compatible with [Create React App](https://create-react-app.dev/)
+Здесь я оттачиваю и экспериментирую с архитектурными подходами и разрабатываю мощнейший Task Manager под руководством не менее мощнейшего [@fixmylie](https://github.com/fixmylie)
 
-```sh
-npx degit reduxjs/redux-templates/packages/vite-template-redux my-app
-```
+## Особенности
 
-## Goals
+- Табличные формы
+- Асинхронные запросы
+- Графики и статистика
+- Прикрепление файлов
+- Уведомления и напоминания
+- Делегирование и совместная работа
+- Интеграция с электронной почтой и календарем
+- Интеллектуальный поиск
+- Интеграция с облачными хранилищами
+- Экспорт в формат xlsx и pdf
 
-- Easy migration from Create React App or Vite
-- As beginner friendly as Create React App
-- Optimized performance compared to Create React App
-- Customizable without ejecting
+## Установка
 
-## Scripts
+   ```bash
+   #Клонирование репозитория
+   git clone https://github.com/yourusername/todo-list.git
 
-- `dev`/`start` - start dev server and open browser
-- `build` - build for production
-- `preview` - locally preview production build
-- `test` - launch test runner
+   #Установите зависимости
+   npm ci
 
-## Inspiration
+   #Запуск json-server (порт 3004)
+   npm run serve
 
-- [Create React App](https://github.com/facebook/create-react-app/tree/main/packages/cra-template)
-- [Vite](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react)
-- [Vitest](https://github.com/vitest-dev/vitest/tree/main/examples/react-testing-lib)
+   #Запуск приложения
+   npm run dev
+   ```
